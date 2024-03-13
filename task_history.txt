@@ -1,0 +1,2 @@
+true Buy fruits
+false Go shopping
